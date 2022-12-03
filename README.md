@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on the SmartPET Feeder project.
+- 🌱 I’m currently learning web development.
+- 💬 Ask me about SmartPET Feeder project
+- When you got an idea about my SmartPET Feeder, you can open an Issue or a Pull request instead of fork directly.
 <!--
 **smart2pet/smart2pet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
